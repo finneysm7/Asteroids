@@ -1,0 +1,6 @@
+#game-canvas{
+	margin: auto;
+    background-image: url('lib/ocean_sea_stars_pirate_ship.jpg');
+    background-size: 800px 600px;
+    background-repeat: no-repeat;
+}
